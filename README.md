@@ -41,10 +41,6 @@ This will create the database and required tables.
 
 ### 5. Run the Server
 
-```bash
-npm start
-```
-
 For development:
 
 ```bash
